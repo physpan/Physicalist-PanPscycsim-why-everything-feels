@@ -44,3 +44,6 @@ p=0 means no physical process has the property of experience. Since I know I hav
 p=1 means all possible physical processes have the property experience which is the physicalist panpsychism hypothesis.
 
 Hence, taking the materialist approach and the Ockham razor (expressed as minimum information principle) as axioms must lead to panpsychism as defined in your paper as the only conclusion.
+
+# Referance:
+Strawson, Galen. "Realistic monism: Why physicalism entails panpsychism." Journal of Consciousness Studies 13.10-11 (2009).
