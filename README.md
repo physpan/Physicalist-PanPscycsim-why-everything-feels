@@ -10,7 +10,7 @@ I good paper that explores this topic is:  [Realistic Monism: Why Physicalism En
 # General goal and proof principles
 This document contains a logical/formal proof as to why this hypothesis is the most likely explanation for consciousness from the aspect of simplicity/Occam's razor/Kolmogorov complexity assumptions. In other words, the proof is based on the idea that this is the simplest hypothesis meaning the one that contains minimal information and therefore minimal assumption from the set of all possible hypotheses. While at the same time support all the empirical evidence regarding consciousness.
 Note the minimum information principle is the guiding principle in any hypothesis selection in data analysis and science when several different hypotheses are supported by the same empirical evidence. Hence, it's perhaps the best and most used principle for selecting explanations and theories with the same set of predictions.
-The proof is presented in two different forms in the next sections, note that this is the same proof written in two different way:
+The proof is presented in two different forms in the next sections, note that this is the same proof written in two different ways:
 
 
 # Proof version 1 (longer more formal):
