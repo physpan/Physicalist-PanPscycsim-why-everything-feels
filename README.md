@@ -34,13 +34,18 @@ The proof is presented in two different forms in the next sections, note that th
 
 We make two assumptions:
 1) The materialist assumption, which states that experience is the property of some physical process (such as brain functions) but not necessarily of all physical processes.
+   
 2) The Ockham razor, which states that given several hypotheses that fit a given data, the simplest one should be used. Expressing this as minimum information principle means that the hypothesis that has the minimal information should be used (In this case I will refer to information as entropy).
 
 Based on materialist assumption we can take a set of all physical process that can occur, and assume that each physical process in the set either have or don't have the property of experience.
 Let's take p as the fraction of physical processes in the set that have experience according to some hypothesis.
+
 The entropy from this hypothesis*  is : S=-p*log(p)-(1-p)*log(1-p).
+
 Now, this entropy is at a minimum at one of two states: p=0 and p=1.
+
 p=0 means no physical process has the property of experience. Since I know I have experience, this option is not valid.
+
 p=1 means all possible physical processes have the property experience which is the physicalist panpsychism hypothesis.
 
 Hence, taking the materialist approach and the Ockham razor (expressed as minimum information principle) as axioms must lead to panpsychism as defined in your paper as the only conclusion.
